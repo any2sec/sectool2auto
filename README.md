@@ -1,0 +1,1 @@
+# sectool2auto
